@@ -1,0 +1,12 @@
+{
+  "version": "1.0",
+  "type": "rich",
+  "provider_name": "Nemmadi",
+  "title": "Residential block · services",
+  "width": 1600,
+  "height": 1000,
+  "thumbnail_url": "https://nemmadi-in.github.io/building-anatomy/poster.png",
+  "thumbnail_width": 1600,
+  "thumbnail_height": 1000,
+  "html": "<iframe src=\"https://nemmadi-in.github.io/building-anatomy/\" width=\"1600\" height=\"1000\" style=\"border:0\" allowfullscreen loading=\"lazy\" title=\"Residential block · services\"></iframe>"
+}
